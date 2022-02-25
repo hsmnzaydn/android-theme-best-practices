@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.MaterialComponents.Body1.GTC">
+        <item name="fontFamily">@font/roboto</item>
+        <item name="android:textSize">93sp</item>
+    </style>
+
+    <style name="TextAppearance.MaterialComponents.Body2.GTC">
+        <item name="fontFamily">@font/roboto</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>

@@ -61,6 +61,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Custom Color"
+        android:textAppearance="?attr/textAppearanceBody1"
         android:textColor="?attr/colorCustom"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
